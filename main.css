@@ -1,0 +1,92 @@
+#theBody{
+	background-color: lightgray;
+	width: 875px;
+}
+#navmenu{
+	width: 100%;
+	height: 50px;
+	margin: auto;
+	background-color: #ff9900;
+}
+.navitem{
+	list-style-type: none;
+	display: inline;
+	padding: 75px;
+}
+a:link{
+	color: blue;
+}
+a:visited{
+	color: red;
+}
+a:hover{
+	color: purple;
+}
+a:active{
+	color: orange;
+}
+#divright{
+	float: right;
+	width: 35%;
+}
+p{
+	color: orangered;
+	font-size: 18px;
+	padding-left: 10px;
+}
+.onlyParagraph{
+	color: brown;
+	font-size: 22px;
+}
+#divide{
+	height: 8%;
+	width: 100%; 
+}
+.lits{
+	height:8%;
+	width:30%;
+	border: 3px solid darkgray;
+	display: inline-block;
+}
+.list{
+	color: darkblue;
+	font-size: 20px;
+}
+.love{
+	font-size: 21px;
+	color: #000033;
+}
+.trivia{
+	height:30%;
+	width: 60%;
+	border: 8px double darkgray;
+	background-color: white;
+	float: right;
+}
+#triviaQuestion{
+	padding-left: 5px;
+}
+#buttuns{
+	height: 40px;
+	width: 40%;
+	color: white;
+	background-color: darkgray;
+	border-radius: 15px;
+}
+img{
+	height: 400px;
+}
+.image2{
+	padding: 5px;
+	float: right;
+}
+#fandomlink:visited{
+	color: purple;
+}
+footer{
+	height: 20px;
+	width: 100%;
+	border: 2px dashed;
+	background-color:#ff6600;
+	color: #803300;
+}
